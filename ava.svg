@@ -1,0 +1,94 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+			@import "compass";
+
+@function createShadow($shadowsCount, $radius, $color, $startAngle) {
+  $sh: "0px 0px 0px transparent";
+  $angle: $startAngle / $shadowsCount;
+  @for $i from 1 through $shadowsCount {
+    $x: $radius * cos($angle * $i);
+    $y: $radius * sin($angle * $i);
+    $sh: "#{$sh}, #{$x} #{$y} #{$color}";
+  }
+  @return unquote($sh);
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  --background-color: #212752;
+}
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--background-color);
+}
+.avatar {
+  --border-color: #4255d4;
+  --background-color: #212752;
+  --avatar-size: 150px;
+  height: var(--avatar-size);
+  width: var(--avatar-size);
+  border: 4px solid var(--border-color);
+  padding: 6px;
+  border-radius: 50%;
+  position: relative;
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    // border-radius: 100%;
+    transform: rotate(45deg);
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  &::before {
+    box-shadow: createShadow(8, 7rem, #4255d4, 360deg);
+    animation: animate-2 1s ease-in-out infinite;
+  }
+  &::after {
+    box-shadow: createShadow(16, 6rem, #4255d4, 360deg);
+    transform: rotate(12deg);
+    animation: animate-1 1s ease-in-out infinite;
+  }
+  img {
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: inherit;
+  }
+}
+
+@keyframes animate-1 {
+  0%,
+  100% {
+    box-shadow: createShadow(16, 6rem, #4255d4, 360deg);
+  }
+  50% {
+    box-shadow: createShadow(16, 5.5rem, #4255d4, 360deg);
+  }
+}
+
+@keyframes animate-2 {
+  0%,
+  100% {
+    box-shadow: createShadow(8, 5.5rem, #4255d4, 360deg);
+  }
+  50% {
+    box-shadow: createShadow(8, 6rem, #4255d4, 360deg);
+  }
+}
+			</style>
+			<div class="container">
+				<div class="avatar">
+  <img src="https://avatars.githubusercontent.com/skinvent" alt="">
