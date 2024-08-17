@@ -52,11 +52,11 @@ body {
     bottom: 0;
     margin: auto;
   }
-  &::before {
+  ::before {
     box-shadow: createShadow(8, 7rem, #4255d4, 360deg);
     animation: animate-2 1s ease-in-out infinite;
   }
-  &::after {
+  ::after {
     box-shadow: createShadow(16, 6rem, #4255d4, 360deg);
     transform: rotate(12deg);
     animation: animate-1 1s ease-in-out infinite;
