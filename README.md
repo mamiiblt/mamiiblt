@@ -17,4 +17,9 @@
 <!--### Developer's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&titlecolor=56BBB3&textcolor=56BBB3&bg&color=0d1117)
 -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{skinvent}/count.svg" /></p> 
+<br></div>
+
 ![](https://capsule-render.vercel.app/api?type=waving&height=180&color=56BBB3&reversal=true&section=footer)
