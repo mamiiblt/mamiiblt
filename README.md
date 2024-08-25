@@ -9,7 +9,8 @@
 
 ### Collabs & Contributions 
 [AquilesTrindade](https://github.com/aquilesTrindade)
-
+[AntSummer](https://github.com/antsummer)
+[HanzoDev1375](https://github.com/HanzoDev1375)
 [RobokEngine](https://github.com/robok-engine)
 
 ### Languages and Tools
