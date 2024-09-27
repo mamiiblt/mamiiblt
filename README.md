@@ -1,6 +1,7 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=180&color=56BBB3)
+![logo](https://i.postimg.cc/k5N2T5z2/20240927-152634.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=56BBB3B3&center=true&vCenter=true&width=1000&lines=Hello+There;Welcome+to+My+Profile;Skinvetions;Android+Developer+;Web+Developer+)](https://git.io/typing-svg)
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=56BBB3B3&center=true&vCenter=true&width=1000&lines=Hello+There;Welcome+to+My+Profile;Skinvetions;Android+Developer+;Web+Developer+)](https://git.io/typing-svg)-->
 <div align="center">  
   <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=skinvent&show_icons=true&count_private=true&hide_border=true&title_color=56BBB3&icon_color=56BBB3&text_color=56BBB3&bg_color=0d1117" alt="Skinventions github stats" /> 
   <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinvent&layout=compact&hide_border=true&title_color=56BBB3&text_color=56BBB3&bg_color=0d1117" />
@@ -37,4 +38,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{skinvent}/count.svg" /></p> 
 <br></div>
 
-![](https://capsule-render.vercel.app/api?type=waving&height=180&color=56BBB3&reversal=true&section=footer)
+
+
