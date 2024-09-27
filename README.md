@@ -1,12 +1,9 @@
 ![logo](https://i.postimg.cc/k5N2T5z2/20240927-152634.png)
-
+  <a href="https://github.com/skinvent">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=skinvent&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+  </a>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=56BBB3B3&center=true&vCenter=true&width=1000&lines=Hello+There;Welcome+to+My+Profile;Skinvetions;Android+Developer+;Web+Developer+)](https://git.io/typing-svg)-->
-<div align="center">  
-  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=skinvent&show_icons=true&count_private=true&hide_border=true&title_color=56BBB3&icon_color=56BBB3&text_color=56BBB3&bg_color=0d1117" alt="Skinventions github stats" /> 
-  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinvent&layout=compact&hide_border=true&title_color=56BBB3&text_color=56BBB3&bg_color=0d1117" />
-  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=skinvent&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=56BBB3&text_color=56BBB3&bg_color=0d1117&hide_border=true">
-</div>
 
 ### Contributed With
 <div><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/HanzoDev1375?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/> <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/robok-inc?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
@@ -37,6 +34,12 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{skinvent}/count.svg" /></p> 
 <br></div>
+<div align="center">  
+  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=skinvent&show_icons=true&count_private=true&hide_border=true&title_color=56BBB3&icon_color=56BBB3&text_color=56BBB3&bg_color=0d1117" alt="Skinventions github stats" /> 
+  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinvent&layout=compact&hide_border=true&title_color=56BBB3&text_color=56BBB3&bg_color=0d1117" />
+  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=skinvent&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=56BBB3&text_color=56BBB3&bg_color=0d1117&hide_border=true">
+</div>
+
 
 
 
