@@ -1,6 +1,6 @@
-![logo](https://i.postimg.cc/k5N2T5z2/20240927-152634.png)
-  <a href="https://github.com/skinvent">
-  <!--  <img src="https://github-widgetbox.vercel.app/api/profile?username=skinvent&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+[![20240927-152634.png](https://i.postimg.cc/hPzs16ZQ/20240927-152634.png)]
+  <!--<a href="https://github.com/skinvent">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=skinvent&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
   </a>-->
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=56BBB3B3&center=true&vCenter=true&width=1000&lines=Hello+There;Welcome+to+My+Profile;Skinvetions;Android+Developer+;Web+Developer+)](https://git.io/typing-svg)-->
