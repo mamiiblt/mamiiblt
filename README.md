@@ -7,7 +7,7 @@
 
 ### Contributed With
 <div><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/HanzoDev1375?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/> <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/robok-inc?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/trindadedev13?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
+<!--<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/trindadedev13?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>-->
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Thdev-only?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Sketchware-Pro?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/JavkhlanK?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
