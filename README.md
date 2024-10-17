@@ -18,10 +18,18 @@
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/nicesapien?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/aikrq?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/iyxan23?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Nethical6?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/></div>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Nethical6?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Jetrom17?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/neoapps-dev?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d"/></div>
+
+
+</div>
+
+
 
 ### Languages and Tools
 ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg) ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)  ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
 <!--### Developer's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&titlecolor=56BBB3&textcolor=56BBB3&bg&color=0d1117)
 -->
