@@ -41,12 +41,12 @@
 ![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{skinvent}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SyntaxSpin}/count.svg" /></p> 
 <br></div>
 <div align="center">  
-  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=syntaxspin&show_icons=true&count_private=true&hide_border=true&title_color=56BBB3&icon_color=56BBB3&text_color=56BBB3&bg_color=0d1117" alt="SyntaxSpin github stats" /> 
-  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxSpin&layout=compact&hide_border=true&title_color=56BBB3&text_color=56BBB3&bg_color=0d1117" />
-  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=syntaxspin&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=56BBB3&text_color=56BBB3&bg_color=0d1117&hide_border=true">
+  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=syntaxspin&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" alt="SyntaxSpin github stats" /> 
+  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxSpin&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
+  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=syntaxspin&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
 </div>
 
 
