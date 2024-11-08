@@ -1,4 +1,4 @@
-![logo](banner.png)
+![logo](banners.png)
   <a href="https://github.com/skinvent">
    <!--<img src="https://github-widgetbox.vercel.app/api/profile?username=syntaxspin&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">-->
   </a>
