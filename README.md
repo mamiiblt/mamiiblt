@@ -1,6 +1,6 @@
-![logo](banners.png)
-  <a href="https://github.com/skinvent">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=scriptwrap&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+![logo](bannerss.png)
+  <a href="https://github.com/syntaxspins">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=syntaxspins&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
   </a>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
@@ -43,12 +43,12 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ScriptWrap}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SyntaxSpins}/count.svg" /></p> 
 <br></div>
 <div align="center">  
-  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=scriptwrap&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" alt="ScriptWrap's github stats" /> 
-  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptwrap&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
-  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=scriptwrap&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
+  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=syntaxspins&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" alt="SyntaxSpin's github stats" /> 
+  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxspins&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
+  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=syntaxspins&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
 </div>
 
 
