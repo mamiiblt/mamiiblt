@@ -1,3 +1,4 @@
+>This account is currently unavailable or no longer maintained
 ![logo](bannerss.png)
   <a href="https://github.com/syntaxspins">
    <img src="https://github-widgetbox.vercel.app/api/profile?username=syntaxspins&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
