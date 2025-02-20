@@ -32,8 +32,6 @@ https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudi
 ![Webstorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg)
 ![vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
 
-### Friends & Collaborators & Contributed With
-#### No one I have god only that guided me and Helped me
 
 
 
