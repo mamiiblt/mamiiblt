@@ -13,7 +13,7 @@
 
 <h3 align="left"> 📊 My Popular Repositories</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamiiblt&repo=instafel-updater&theme=dark)](https://instafel.mamiiblt.me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mamiiblt&repo=instafel&theme=dark)](https://github.com/mamiiblt/instafel)
 
 
 
