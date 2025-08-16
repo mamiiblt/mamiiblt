@@ -1,51 +1,40 @@
-<!--![logo](bannerss.png)-->
-  <a href="https://github.com/syntaxspin">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=syntaxspin&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+  <a href="https://github.com/mamiiblt">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=mamiiblt&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox">
   </a>
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
+### Languages & Frameworks
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg)
+![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg)
+![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
+![Vue](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg)
+![Express](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg)
+![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
+![NextJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
+![PostgreDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
+![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg)
+![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+![CSharp](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
+![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
+![Electron](https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron1.svg)
 
-### Spoken Languages 
-* Arabic
-* French
-* English
-* Spanish
+### Softwares and Tools
+![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg)
+![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg)
+![ASTD](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg)
+![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+![IDEA](https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg)
+![VS](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)
+![ESLint](https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint1.svg)
+![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+![AWS](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg)
+![Heroku](https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku1.svg)
+![Obsidian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg)
+![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+![Supabase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
+![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
 
-### Languages and Tools
-![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg) ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)  ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
-![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
-![bash](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
-<!--### Developer's Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&titlecolor=56BBB3&textcolor=56BBB3&bg&color=0d1117)
--->
-### Software Used
-![ArchLinux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg) 
-![Fedora](https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg)
-![linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
-![android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
-![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)
-![Visual Studio Code](
-https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg
-)
-![Webstorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg)
-![vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
-
-
-
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SyntaxSpin}/count.svg" /></p> 
-<br></div>
-<div align="center">  
-  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=syntaxspin&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" alt="SyntaxSpin's github stats" /> 
-  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxspin&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
-  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=syntaxspin&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
-</div>
-
-<img src="https://raw.githubusercontent.com/SyntaxSpin/SyntaxSpin/output/snake.svg" alt="Snake animation" />
-
-
+### Umm... More?
+You can learn more about me by visiting [my personal portfolio website](https://mamii.me/about)!
