@@ -11,6 +11,8 @@
 ![Express](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg)
 ![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
 ![NextJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
+![JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
+![TS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![PostgreDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
 ![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg)
 ![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
